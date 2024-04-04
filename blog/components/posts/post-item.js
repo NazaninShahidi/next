@@ -3,7 +3,7 @@ import Link from "next/link";
 import classes from "./post-item.module.css";
 
 function PostItem(props) {
-  const { title, image, except, date, slug } = props.post;
+  const { title, image, excerpt, date, slug } = props.post;
   const formattedDate = new Date(date).toLocaleDateString("en-Us", {
     day: "numeric",
     month: "long",
@@ -29,7 +29,7 @@ function PostItem(props) {
           <div className={classes.content}>
             <h3>{title}</h3>
             <time>{formattedDate}</time>
-            <p>{except}</p>
+            <p>{excerpt}</p>
           </div>
         </a>
       </Link>

@@ -17,9 +17,9 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </Head>
-      <body className="container mx-auto">
+      <body className="container  ">
         <Menu />
-        {children}
+        <div className="max-w-[1360px] mx-auto">{children}</div>
       </body>
     </html>
   );

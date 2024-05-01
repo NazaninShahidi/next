@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <div className="w-[1360px] h-[607px] rounded-[10px] overflow-hidden hero-section bg-cover bg-[50%_50%]">
+    <div className="w-full h-[607px] rounded-[10px] overflow-hidden hero-section bg-cover bg-[50%_50%]">
       <div className="flex flex-col justify-center items-center space-y-3 h-[607px] bg-[#65360d9e]">
         <p className=" [font-family:'Montserrat-SemiBold',Helvetica] font-semibold text-[#e7e7e7] text-[48px] text-center tracking-[0] leading-[normal]">
           Enhance Your House Beauty <br />

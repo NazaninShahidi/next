@@ -1,0 +1,226 @@
+[
+  {
+    "id": "e1",
+    "title": "Chair",
+    "image": "/image/chair/chair-1.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": true
+  },
+  {
+    "id": "e2",
+    "title": "Chair",
+    "image": "/image/chair/chair-2.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": true
+  },
+  {
+    "id": "e3",
+    "title": "Chair",
+    "image": "/image/chair/chair-3.png",
+    "star": 5,
+    "price": "11,500.00",
+    "isBestSelling": true
+  },
+  {
+    "id": "e4",
+    "title": "Chair",
+    "image": "/image/chair/chair-4.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": true
+  },
+  {
+    "id": "e5",
+    "title": "Chair",
+    "image": "/image/chair/chair-5.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": true
+  },
+  {
+    "id": "e6",
+    "title": "Chair",
+    "image": "/image/chair/chair-6.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": true
+  },
+  {
+    "id": "e7",
+    "title": "Chair",
+    "image": "/image/chair/chair-7.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": true
+  },
+  {
+    "id": "e8",
+    "title": "Chair",
+    "image": "/image/chair/chair-8.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": true
+  },
+  {
+    "id": "e9",
+    "title": "Table",
+    "image": "/image/table/table.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e10",
+    "title": "Table",
+    "image": "/image/table/table-1.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e11",
+    "title": "Table",
+    "image": "/image/table/table-2.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e12",
+    "title": "Table",
+    "image": "/image/table/table-3.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e13",
+    "title": "Table",
+    "image": "/image/table/table-4.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e14",
+    "title": "Table",
+    "image": "/image/table/table-5.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e15",
+    "title": "Table",
+    "image": "/image/table/table-6.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e16",
+    "title": "Table",
+    "image": "/image/table/table-7.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e17",
+    "title": "Sofa",
+    "image": "/image/sofa/sofa.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e18",
+    "title": "Sofa",
+    "image": "/image/sofa/sofa-1.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e19",
+    "title": "Sofa",
+    "image": "/image/sofa/sofa-2.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e20",
+    "title": "Sofa",
+    "image": "/image/sofa/sofa-3.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e21",
+    "title": "Bookself",
+    "image": "/image/book/book.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e22",
+    "title": "Bookself",
+    "image": "/image/book/book-1.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e23",
+    "title": "Bookself",
+    "image": "/image/book/book-2.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e24",
+    "title": "Bookself",
+    "image": "/image/book/book-3.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e25",
+    "title": "Lamp",
+    "image": "/image/lamp/lamp.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e26",
+    "title": "Lamp",
+    "image": "/image/lamp/lamp-1.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e27",
+    "title": "Lamp",
+    "image": "/image/lamp/lamp-2.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  },
+  {
+    "id": "e28",
+    "title": "Lamp",
+    "image": "/image/lamp/lamp-3.png",
+    "star": 5,
+    "price": "12,500.00",
+    "isBestSelling": false
+  }
+]

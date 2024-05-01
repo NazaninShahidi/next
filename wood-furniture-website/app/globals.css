@@ -12,3 +12,7 @@
 .hero-section{
     background-image:url('../public//image//bg.png');
 }
+
+.banner-section{
+    background-image: url("../public/image/banner.png");
+}
